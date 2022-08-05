@@ -6,6 +6,7 @@ Termble is short for "Terminal Bible". It allows you to read your Bible through 
 
 # Media
 ![image](https://user-images.githubusercontent.com/71285258/183202812-d4283c4e-1279-4e34-8181-8a0d5d43662e.png)
+![image](https://user-images.githubusercontent.com/71285258/183206101-6f5737e1-27ee-4a13-966a-e036a0265d8d.png)
  
 # Installation
 Open a terminal and type these three commands:
