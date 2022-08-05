@@ -70,7 +70,7 @@ int main(int argc, char *argv[])
 
     // create command
     char *command = (char*) malloc(100);
-    sprintf(command, "cd && /usr/bin && node termble_get.js %s", identifier);
+    sprintf(command, "cd /usr/bin && node termble_get.js %s", identifier);
 
     // run command
     system(command);
