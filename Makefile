@@ -1,12 +1,12 @@
 # termble
-CC = g++
-FILES = main.cpp
+CC = gcc
+FILES = main.c
 NAME = termble
 DIR = /usr/bin
 SCRIPT = termble_get.js
 DATA = termble_data
 
-build:
+build: termble
 	$(CC) $(FILES) -o $(NAME)
 
 install:
