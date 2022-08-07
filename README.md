@@ -20,6 +20,5 @@ sudo make install
 # Information for Developers
  
 ### Languages
-- C++
+- C
 - JavaScript
-- JSON
