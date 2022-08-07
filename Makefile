@@ -6,7 +6,7 @@ DIR = /usr/bin
 SCRIPT = termble_get.js
 DATA = termble_data
 
-build: termble
+build:
 	$(CC) $(FILES) -o $(NAME)
 
 install:
